@@ -15,14 +15,14 @@
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Desktop Application",
+      "description": "I create desktop applications that are powerful, user-friendly, and efficient for various operating systems, including Windows, macOS, and Linux. I specialize in developing custom applications that meet the specific needs of your business, whether you're looking for enterprise-grade solutions, productivity tools, or standalone applications."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Mobile Application",
+      "description": "I also create custom-built, user-friendly, and high-performance mobile apps. I specialize in creating native and cross-platform applications for iOS and Android, designed to meet your unique business needs and provide an exceptional user experience. As a mobile application developer, I will work closely with you from concept to deployment, ensuring your app not only functions flawlessly but also stands out in the competitive mobile market."
     }
   ],
   "portfolio": [

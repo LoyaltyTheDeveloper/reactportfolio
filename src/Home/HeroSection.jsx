@@ -5,7 +5,7 @@ export default function HeroSection() {
       <section id="heroSection" className="hero--section">
         <div className="hero--section--content--box">
           <div className="hero--section--content">
-            <p className="section--title">Hey, I'm TonySexy!</p>
+            <p className="section--title">Hey, Tony here!</p>
             <h1 className="hero--section--title">
               <span className="hero--section-title--color">Full Stack</span>{" "}
               <br />
@@ -13,13 +13,13 @@ export default function HeroSection() {
             </h1>
             <p className="hero--section-description">
               Hi, I am Tony.
-              <br /> Dolorum, quas. Amet soluta assumenda cum?
+              <br />Looking to elevate your business with a custom website, mobile app, or desktop application? Get in touch and let's get started!
             </p>
           </div>
          <a href="#Contact"><button className="btn btn-primary">Get In Touch</button></a>
         </div>
         <div className="hero--section--img">
-          <img src="./img/hero_img.png" alt="Hero Section" />
+          <img src="/img/tony.jpg" style={{borderRadius:"15px 50px"}} alt="Hero Section" />
         </div>
       </section>
     );

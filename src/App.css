@@ -360,6 +360,11 @@ body {
   .portfolio--section--img {
     border-radius: 8px;
     width: 100%;
+    height: auto;
+  }
+  .portfolio--section--img iframe{
+    height: 400px;
+    width: 100%;
   }
   .portfolio--section--img > img {
     width: 100%;
@@ -611,6 +616,19 @@ body {
     a .btn {
       display: block;
       margin: auto;
+    }
+    .portfolio--section--card{
+      width: 130%;
+    }
+    .skills--section--container{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .skills--section--card{
+      width: 130%;
+      display: flex;
     }
   }
   @media only screen and (max-width: 1200px) {
